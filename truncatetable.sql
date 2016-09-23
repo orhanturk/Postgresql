@@ -1,0 +1,1 @@
+﻿TRUNCATE table t_gorev  RESTART IDENTITY;
